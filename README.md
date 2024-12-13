@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Soumitra!
 - 👨🏽‍💻 Pursuing a Computer Science major at IIT Bombay.
-- 🌱 Interested in ML, Data Analysis, Maths, Computer Vision, Finance ...
-- 💬 How to reach me: at soumitra1854@gmail.com
+- 🌱 Interested in ML, Data Analysis, Maths and Statistics, Computer Vision, Finance, Economics, Politics...
+- 💬 Feel free to reach me: soumitra1854@gmail.com.
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=soumitra1854&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitra1854&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
