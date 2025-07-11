@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Soumitra!
+<h2 align="center">Hi there 👋, I'm Soumitra!</h2>
+
 - 👨🏽‍💻 Pursuing a Computer Science major at IIT Bombay.
 - 🌱 Interested in ML, Web3, Cryptocurrencies, Maths and Statistics, Computer Vision, Finance, Economics, Politics...
 - 💬 Feel free to reach me: soumitra1854@gmail.com.
