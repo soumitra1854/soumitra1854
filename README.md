@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1YBt7Si5_Fk6dDbLY4U-uo-f5M5ZD76oc/view?usp=sharing" target="blank">Resume</a> |
+  <a href="https://drive.google.com/file/d/1udSOdVi5-MoKi50de81mTXNLTQQlhWe_/view?usp=sharing" target="blank">Resume</a> |
   <a href="https://www.linkedin.com/in/soumitra1854" target="blank">LinkedIn</a> |
   <a href="mailto:soumitra1854@gmail.com" target="blank">Email</a>
 </p>
