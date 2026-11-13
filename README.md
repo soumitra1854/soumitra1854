@@ -5,8 +5,8 @@
 - 💬 Feel free to reach me: soumitra1854@gmail.com.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumitra1854&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000&hide_title=true" alt="Soumitra's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitra1854&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_title=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=soumitra1854&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000&hide_title=true" alt="Soumitra's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumitra1854&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_title=true" alt="Top Languages" />
 </p>
 <!-- <p align="center">
   <img
